@@ -1,2 +1,2 @@
-# minemon-report
-Issue tracking and updates
+# minemon report
+Report issues or feature requests here.
